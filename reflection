@@ -1,0 +1,5 @@
+Copilot helped me generate the data_cleaning.py. It standardized column names, stripped wasted space, dropped missing prices and quantities, and converted price and quantity to numeric. I prompted it through the use of hashtags, and then instructing it to do what I wanted.
+
+The biggest things I had to change about the code were the variables. Because it couldn't see the raw data, it made up names for stuff which were inaccurate. So, after it generated the code, I tried to run it, and it presented me with an error message. However, this was a relatively easy fix in the end.
+
+I learned that Copilot is a very strong tool if you really understand how code works and how it functions. When I receive the error message in VSC, I actually know what the error is now, and it doesn't take too much effort to be able to fix it. However, without this knowledge, I could not succeed doing coding projects at the level I would hope to. Overall, Copilot is a great tool, and can be utilized to save time.
